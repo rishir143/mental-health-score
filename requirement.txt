@@ -1,6 +1,10 @@
- pandas 
- numpy 
- matplotlib 
- seaborn 
- scikit-learn 
- jupyter
+pandas 
+numpy 
+matplotlib 
+seaborn 
+scikit-learn 
+jupyter
+fastapi 
+uvicorn 
+pandas 
+joblib
